@@ -4,7 +4,7 @@
 
 - <b>Python </b>
   - [Caesar Cipher](https://github.com/bezahailu/Caesar-Cipher)
-  - [SSH Brute Forcing](https://github.com/bezahailu/SSH-Brute-Forcing) 
+
 
 - <b>AWS/AZURE </b>
   - [Hotel Booking Chatbot](https://github.com/bezahailu/Hotel-Booking-Chatbot)
