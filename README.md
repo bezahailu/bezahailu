@@ -2,8 +2,7 @@
 
 <h2> 👩🏽‍💻 Cyber Security Projects:</h2>
 
-- <b>Python </b>
-  - [Caesar Cipher](https://github.com/bezahailu/Caesar-Cipher)
+- [Caesar Cipher](https://github.com/bezahailu/Caesar-Cipher)
 
 - [Nessus Vulnerability Scanner](https://github.com/bezahailu/Nessus-Vulnerability-Scanner)
  
