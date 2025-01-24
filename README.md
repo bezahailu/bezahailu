@@ -5,6 +5,7 @@
 - <b>Python </b>
   - [Caesar Cipher](https://github.com/bezahailu/Caesar-Cipher)
 
+<h2> ☁️ Cloud Projects:</h2>
 
 - <b>AWS/AZURE </b>
   - [Hotel Booking Chatbot](https://github.com/bezahailu/Hotel-Booking-Chatbot)
